@@ -1,0 +1,6 @@
+node_modules
+coverage
+
+npm-debug.log
+config.js
+.config/configstore/insight-yo.json
